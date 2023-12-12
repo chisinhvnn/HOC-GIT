@@ -1,0 +1,39 @@
+WHITE	    	trắng
+BLUE	        xanh da trời
+GREEN	    	xanh lá cây
+YELLOW	    	vàng
+ORANGE	    	màu da cam
+PINK	    	hồng
+GRAY	    	xám
+RED	        	đỏ
+BLACK	    	đen
+BROWN	    	nâu
+PURPLE	        màu tím
+
+Vlo_	    Ventical layuot
+Hlo	        Horizontal Layuot
+Hsp	        Horizontal space
+Vsp	        Vertical space
+Btn	        Button
+Tbt	        Tool button
+Ckb	        Check box
+Lsv	        List view
+Trv	        Tree view
+Tbv	        Table view
+Clv	        Colum view
+Lsw	        List Widget
+Trw	        Tree widget
+Tbw	        Table Widget
+Grb	        Group Box
+Fra	        Fame
+Wid	        Widget
+Cmb	        Combo Box
+Lin	        Line Edit
+Txt	        Text Edit
+Tim	        Time Edit
+Dat	        Date Edit
+Hsb	        Horizontal Scroll bar
+Vsb	        Vertical Scroll bar
+Hsl	        Horizontal Slider
+Vsl	        Vertical Slider
+lab	        Label 
